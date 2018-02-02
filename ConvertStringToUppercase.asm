@@ -7,7 +7,7 @@
 # t = string[index]
 # while(t!=NULL)
 # 	if(97<=t<=122)
-#		t =t-122
+#		t =t-32
 #	string[index] =t
 #	index = index +1
 #	t = string[index]
